@@ -29,6 +29,9 @@ section1 p {
 #Portfolio .same {
     font-size: 12px;
 }
+#contact div {
+    gap: 30%;
+}
 footer img {
     width: 50%;
 }

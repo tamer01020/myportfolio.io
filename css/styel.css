@@ -182,6 +182,7 @@ section1 img{
     width: 15%;
     justify-content: space-evenly;
     font-size: 35px;
+    gap: 2%;
 }
 .fa-brands.fa-linkedin{
     color: blue;
